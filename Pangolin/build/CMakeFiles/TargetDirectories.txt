@@ -1,0 +1,3 @@
+/home/wangchao/code/test/Pangolin/build/CMakeFiles/rebuild_cache.dir
+/home/wangchao/code/test/Pangolin/build/CMakeFiles/edit_cache.dir
+/home/wangchao/code/test/Pangolin/build/CMakeFiles/MyApp.dir
